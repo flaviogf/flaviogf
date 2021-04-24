@@ -1,6 +1,6 @@
 ### Hi there! 😎
 
-My name is Flávio I am 24 years old I am a Software Developer nowadays I am studying best practices and performance using .NET and Golang.
+My name is Flávio I'm a Software Developer, nowadays studying best practices and performance using .NET and Golang.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=flaviogf&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogf&show_icons=true&layout=compact)
