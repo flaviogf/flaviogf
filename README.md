@@ -1,10 +1,10 @@
 ### Hi there! 😎
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=flaviogf&column=7&no-frame=true)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=flaviogf&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogf&show_icons=true&layout=compact)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=flaviogf&column=7&no-frame=true)
 
 Would you like to contact me?
 
