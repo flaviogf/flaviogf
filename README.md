@@ -1,4 +1,4 @@
-<h1>Hi there! 😎</h1>
+<h1>Hi there! :sunglasses:</h1>
 <p>
 I have been working as a Software Developer since 2017. Today I work as a Software Engineer at RDStation. During this period, I had the opportunity to work on many projects. Most of the time, I spent building APIs and Back-end services, and other times building mobile and Front-end apps.
 </p>
@@ -17,24 +17,22 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
   <img alt="Vim" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" height="30" width="40" />
 </div>
 
-<h3>Profile Trophy</h3>
+<h3>:trophy: Trophies</h3>
 <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=flaviogf&column=7" />
 
 ##
 
-<h3>Stats</h3>
+<h3>:chart_with_upwards_trend: Stats</h3>
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=flaviogf&show_icons=true&include_all_commits=true" />
 
 ##
 
-<h3>Streak</h3>
+<h3>:fire: Streak</h3>
 <img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=flaviogf&hide_border=true" />
 
 ##
 
-<p>
-Would you like to contact me?
-</p>
+<p>Would you like to contact me?</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviogf)](https://www.linkedin.com/in/flaviogf)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavio.fernandes6@gmail.com)](mailto:flavio.fernandes6@gmail.com)
