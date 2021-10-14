@@ -8,7 +8,6 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
 <div style="display: inline-block">
   <img alt="Ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" height="30" width="40" />
   <img alt="Ruby on Rails" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" height="30" width="40" />
-  <img alt="Go (Golang)" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="30" width="40" />
   <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40" />
   <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40" />
   <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="40" />
