@@ -28,11 +28,6 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
 
 ##
 
-<h3>:fire: Streak</h3>
-<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=flaviogf&hide_border=true" />
-
-##
-
 <p>Would you like to contact me?</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviogf)](https://www.linkedin.com/in/flaviogf)
