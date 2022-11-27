@@ -6,16 +6,15 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
 ##
 
 <div style="display: inline-block">
-  <img alt="Ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" height="30" width="40" />
-  <img alt="Ruby on Rails" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" height="30" width="40" />
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40" />
-  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40" />
-  <img alt="Go/Golang" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="30" width="40" />
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30" width="40" />
-  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" width="40" />
-  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30" width="40" />
-  <img alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="30" width="40" />
-  <img alt="Vim" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" height="30" width="40" />
+  <img alt="Arch Linux" src="https://img.shields.io/badge/-archlinux-1794D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-ruby-red?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-rails-red?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+  <img alt="Go/Golang" src="https://img.shields.io/badge/-go-007D9C?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-elasticsearch-FEC514?style=for-the-badge&logo=elasticsearch&logoColor=black" />
+  <img alt="Docker" src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="Emacs" src="https://img.shields.io/badge/-emacs-884CB9?style=for-the-badge&logo=gnuemacs&logoColor=white" />
 </div>
 
 <h3>:trophy: Trophies</h3>
