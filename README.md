@@ -19,7 +19,7 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
 ---
 
 <div style="display: inline-block">
-  <img alt="Arch Linux" src="https://img.shields.io/badge/-archlinux-1794D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img alt="Arch Linux" src="https://img.shields.io/badge/-arch-1794D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img alt="I3WM" src="https://img.shields.io/badge/-i3wm-52C0FF?style=for-the-badge&logoColor=white" />
   <img alt="Emacs" src="https://img.shields.io/badge/-emacs-884CB9?style=for-the-badge&logo=gnuemacs&logoColor=white" />
   <img alt="Neovim" src="https://img.shields.io/badge/-neovim-5E9A3C?style=for-the-badge&logo=neovim&logoColor=white" />
