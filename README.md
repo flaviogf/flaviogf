@@ -25,5 +25,5 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
 
 ## Contact
 
-- ![Linkedin](https://www.linkedin.com/in/flaviogf)
-- ![Email](mailto:flavio.fernandes6@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviogf)](https://www.linkedin.com/in/flaviogf)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavio.fernandes6@gmail.com)](mailto:flavio.fernandes6@gmail.com)
