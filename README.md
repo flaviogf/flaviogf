@@ -9,7 +9,7 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
 ![Emacs](https://img.shields.io/badge/-emacs-884CB9?style=for-the-badge&logo=gnuemacs&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-rails-red?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Go/Golan](https://img.shields.io/badge/-go-007D9C?style=for-the-badge&logo=go&logoColor=white)
+![Go/Golang](https://img.shields.io/badge/-go-007D9C?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-elasticsearch-FEC514?style=for-the-badge&logo=elasticsearch&logoColor=black)
 ![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
