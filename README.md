@@ -21,7 +21,7 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
 
 <div>
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=flaviogf&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogf&layout=compact&langs_count=7" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogf&layout=compact&langs_count=5" />
 </div>
 
 #### Contact
