@@ -11,10 +11,10 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
   <img alt="Ruby" src="https://img.shields.io/badge/-ruby-red?style=for-the-badge&logo=ruby&logoColor=white" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-rails-red?style=for-the-badge&logo=rubyonrails&logoColor=white" />
   <img alt="Go/Golang" src="https://img.shields.io/badge/-go-007D9C?style=for-the-badge&logo=go&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Elasticsearchx" src="https://img.shields.io/badge/-elasticsearch-FEC514?style=for-the-badge&logo=elasticsearch&logoColor=black" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-pg-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Elasticsearchx" src="https://img.shields.io/badge/-es-FEC514?style=for-the-badge&logo=elasticsearch&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-k8s-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
 #### Stats
