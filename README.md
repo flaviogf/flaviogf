@@ -17,13 +17,6 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
   <img alt="Kubernetes" src="https://img.shields.io/badge/-k8s-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
-#### Stats
-
-<div>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=flaviogf&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogf&layout=compact&langs_count=5" />
-</div>
-
 #### Contact
 
 <a href="https://www.linkedin.com/in/flaviogf">
