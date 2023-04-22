@@ -6,7 +6,8 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
 
 <div>
   <img alt="Arch Linux" src="https://img.shields.io/badge/-arch-1794D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img alt="Emacs" src="https://img.shields.io/badge/-emacs-884CB9?style=for-the-badge&logo=gnuemacs&logoColor=white" />
+  <!-- <img alt="Emacs" src="https://img.shields.io/badge/-emacs-884CB9?style=for-the-badge&logo=gnuemacs&logoColor=white" /> -->
+  <img alt=Neovim src="https://img.shields.io/badge/-neovim-5fb950?style=for-the-badge&logo=neovim&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-ruby-red?style=for-the-badge&logo=ruby&logoColor=white" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-rails-red?style=for-the-badge&logo=rubyonrails&logoColor=white" />
   <img alt="Go/Golang" src="https://img.shields.io/badge/-go-007D9C?style=for-the-badge&logo=go&logoColor=white" />
