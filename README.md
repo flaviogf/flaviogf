@@ -5,7 +5,8 @@ I have been working as a Software Developer since 2017. Today I work as a Softwa
 #### Toolbox
 
 <div>
-  <img alt="Arch Linux" src="https://img.shields.io/badge/-arch-1794D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img alt="NixOS" src="https://img.shields.io/badge/-nixos-7EB8E2?style=for-the-badge&logo=nixos&logoColor=white" />
+  <!-- <img alt="Arch Linux" src="https://img.shields.io/badge/-arch-1794D1?style=for-the-badge&logo=archlinux&logoColor=white" /> -->
   <!-- <img alt="Emacs" src="https://img.shields.io/badge/-emacs-884CB9?style=for-the-badge&logo=gnuemacs&logoColor=white" /> -->
   <img alt=Neovim src="https://img.shields.io/badge/-neovim-5fb950?style=for-the-badge&logo=neovim&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-ruby-red?style=for-the-badge&logo=ruby&logoColor=white" />
