@@ -1,6 +1,6 @@
 ## Hello, there! :sunglasses:
 
-I have been working as a Software Developer since 2017. Today I work as a Software Engineer at RDStation. During this period, I had the opportunity to work on many projects. Most of the time, I spent building APIs and Back-end services, and other times building mobile and Front-end apps.
+Software Engineer with over 7 years of experience, specialized in developing high-performance and scalable backend services.
 
 #### Toolbox
 
